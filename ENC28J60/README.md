@@ -9,6 +9,7 @@ So it took me a long time to figure this out but after doing some googling it fo
 ### 11 to ST
 ### 12 to SO
 ### 13 to SCK
+### 10 to CS
 
 You need to change your ip address and gateway ip address in the file:
 
